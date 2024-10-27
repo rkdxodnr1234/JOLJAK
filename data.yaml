@@ -1,0 +1,16 @@
+# data.yaml 파일 내용
+
+train: "D:/JOLJAK/TOMATO_Train"     #image" #/image"  # 학습 이미지의 상위 폴더 경로 (하위 폴더들을 자동으로 탐색)
+val: "D:/JOLJAK/TOMATO_Val"      # Validation/txt2  # 검증 이미지의 상위 폴더 경로 (검증 데이터를 별도로 구성했다면 해당 경로)
+
+# 클래스 수
+nc: 6  # 클래스의 총 개수
+
+# 클래스 이름
+names:
+  0: '녹숙기'
+  1: '변색기'
+  2: '채색기'
+  3: '도색기'
+  4: '담적색기'
+  5: '완숙기'
