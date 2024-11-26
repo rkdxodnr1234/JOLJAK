@@ -1,5 +1,5 @@
-train: "D:/JOLJAK/TOMATO_Train"   
-val: "D:/JOLJAK/TOMATO_Val"      
+train: "C:/Users/ahsld/Desktop/TOMATO/TOMATO_Train"   
+val: "C:/Users/ahsld/Desktop/TOMATO/TOMATO_Train"      
 
 # 클래스 수
 nc: 3 
